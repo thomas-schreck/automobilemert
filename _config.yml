@@ -62,6 +62,9 @@ plugins:
 #       icon: "fab fa-fw fa-facebook-square"
 #       url: "https://www.facebook.com/automobilemert/?locale=de_DE"/"
   
+header:
+  image: /assets/images/banner.png
+
 footer:
   links:
     - label: "Facebook"
