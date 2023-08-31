@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Über uns"
     url: /about/
+  - title: "Leistungen"
+    url: /leistungen/
+  - title: "Datenschutz"
+    url: /datenschutz/
+  - title: "Impressum"
+    url: /impressum/
