@@ -56,16 +56,11 @@ plugins:
 author:
   name   : "Automobile Mert"
   avatar   : "/assets/images/logo.png"
-  bio      : "My awesome biography constrained to a sentence or two goes here."
-  location : "Somewhere, USA"
-#  author:
-#    name   : "Automobile Mert"
-# #   avatar : "/assets/images/bio-photo.jpg"
-# #   bio    : "My awesome biography constrained to a sentence or two goes here."
-#    links:
-#     - label: "Facebook"
-#       icon: "fab fa-fw fa-facebook-square"
-#       url: "https://www.facebook.com/automobilemert/?locale=de_DE"/"
+  location : "Am Reham 10, 93358 Train"
+
+sidebar:
+  - title: "Öffnungszeiten"
+    text: "Montag - Freitag 08:00 - 18:00 Samstag 08:00 - 12:00"
   
 header:
   image: /assets/images/banner.png
