@@ -78,10 +78,16 @@ footer:
 defaults:
   # _posts
   - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+  - scope:
       path: "_pages"
       type: pages
     values:
-      layout: splash
+      layout: single
       author_profile: true
 
 # category_archive:
