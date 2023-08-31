@@ -3,8 +3,6 @@ permalink: /impressum/
 title: "Impressum"
 ---
 
-<h1>Impressum</h1>
-
 <h2>Angaben gem&auml;&szlig; &sect; 5 TMG</h2>
 <p>Automobile Mert<br />
 Am Reham 10<br />
