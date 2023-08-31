@@ -61,8 +61,13 @@ author:
          Montag - Freitag 08:00 - 18:00 <br/>
          Samstag 08:00 - 12:00
   location : <a href="https://goo.gl/maps/CHKbpVMx2LQrD1m29" target="_blank">Am Reham 10, 93358 Train</a>
-  
-teaser: /assets/images/banner.png
+  links:
+    - label: "Telefon"
+      icon: "fas fa-fw fa-phone-square"
+      url: "mailto:info@automobilemert.de"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:info@automobilemert.de"
 
 footer:
   links:
