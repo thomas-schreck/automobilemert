@@ -55,19 +55,12 @@ plugins:
 
  author:
    name   : "Automobile Mert"
-   avatar : "/assets/images/bio-photo.jpg"
+#   avatar : "/assets/images/bio-photo.jpg"
 #   bio    : "My awesome biography constrained to a sentence or two goes here."
    links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/automobilemert/?locale=de_DE"/"
-
-sidebar:
-  - title: "Automobile Mert"
-    image: http://placehold.it/350x250
-    text: "Some text here."
-  - title: "Öffnungszeiten"
-    text: "More text here."
   
 footer:
   links:
