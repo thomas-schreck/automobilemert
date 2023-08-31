@@ -1,6 +1,4 @@
 main:
-  - title: "Über uns"
-    url: /about/
   - title: "Leistungen"
     url: /leistungen/
   - title: "Datenschutz"
